@@ -1,0 +1,15 @@
+.opening-header {
+    padding: 5px;
+    background-color: rgba(11, 156, 252, 0.938);
+    border-radius: 3px;
+}
+
+.my-name {
+    font-size: 48px;
+    padding-left: 25px;
+}
+
+.header-text {
+    font-size: 28px;
+    padding-left: 25px;
+}

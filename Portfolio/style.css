@@ -1,7 +1,7 @@
 .opening-header {
     padding: 5px;
     background-color: rgba(11, 156, 252, 0.938);
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .my-name {
@@ -26,4 +26,21 @@
 .nav-buttons:hover {
     background-color: rgba(11, 156, 252, 0.938);
     box-shadow:  0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.about-me {
+    margin-top: 5px;
+    background-color: rgba(11, 156, 252, 0.938);
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.about-me-header {
+    font-size: 48px;
+    padding-left: 25px;
+}
+
+.about-me-p {
+    padding-left: 25px;
+    font-size: 24px;
 }

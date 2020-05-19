@@ -4,7 +4,7 @@
     border-radius: 20px;
 }
 
-.my-name {
+.my-name, .about-me-header, .my-work-header {
     font-size: 48px;
     padding-left: 25px;
 }
@@ -28,33 +28,16 @@
     box-shadow:  0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
-.about-me {
+.about-me, .my-work {
     margin-top: 5px;
     background-color: rgba(11, 156, 252, 0.938);
     border-radius: 20px;
     padding: 5px;
-}
-
-.about-me-header {
-    font-size: 48px;
-    padding-left: 25px;
 }
 
 .about-me-p {
     padding-left: 25px;
     font-size: 24px;
-}
-
-.my-work {
-    margin-top: 5px;
-    background-color: rgba(11, 156, 252, 0.938);
-    border-radius: 20px;
-    padding: 5px;
-}
-
-.my-work-header {
-    font-size: 48px;
-    padding-left: 25px;
 }
 
 .proj-1, .proj-2, .proj-3, .proj-4, .proj-5 {
